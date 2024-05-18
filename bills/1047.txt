@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 1047
+
+Customer Name: s
+
+Customer Phone Number: a
+
+======================================================	Product			Quantity		Price
+======================================================
+Lightning Charging Cable			12		179.39999999999998
+LG Dryer			7		4200
+-------------------------------------------------------
+TAX			437.94 $
+TOTAL			3941.4599999999996

@@ -1,0 +1,29 @@
+		**Welcome customer**
+Bill Number: 1641
+
+Customer Name: 2
+
+Customer Phone Number: 2
+
+======================================================	Product			Quantity		Price
+======================================================
+Wired Headphones			2		23.98
+34in Ultrawide Monitor			2		759.98
+-------------------------------------------------------
+TAX			78.396 $
+TOTAL			705.5640000000001
+		**Welcome customer**
+Bill Number: 9827
+
+Customer Name: 2
+
+Customer Phone Number: 2
+
+======================================================	Product			Quantity		Price
+======================================================
+USB-C Charging Cable			2		23.9
+Wired Headphones			2		23.98
+34in Ultrawide Monitor			2		759.98
+-------------------------------------------------------
+TAX			80.786 $
+TOTAL			727.0740000000001

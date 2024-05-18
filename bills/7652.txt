@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 7652
+
+Customer Name: 3
+
+Customer Phone Number: 3
+
+======================================================	Product			Quantity		Price
+======================================================
+Wired Headphones			3		35.97
+Google Phone			3		1800
+-------------------------------------------------------
+TAX			183.597 $
+TOTAL			1652.373

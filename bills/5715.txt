@@ -1,0 +1,13 @@
+		**Welcome customer**
+Bill Number: 5715
+
+Customer Name: 1
+
+Customer Phone Number: 1
+
+======================================================	Product			Quantity		Price
+======================================================
+Wired Headphones			2		23.98
+-------------------------------------------------------
+TAX			2.398 $
+TOTAL			21.582

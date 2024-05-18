@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 9331
+
+Customer Name: 3
+
+Customer Phone Number: 4
+
+======================================================	Product			Quantity		Price
+======================================================
+Wired Headphones			2		23.98
+Iphone			2		1400
+-------------------------------------------------------
+TAX			142.398 $
+TOTAL			1281.582

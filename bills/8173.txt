@@ -1,0 +1,15 @@
+		**Welcome customer**
+Bill Number: 8173
+
+Customer Name: trungtruc
+
+Customer Phone Number: 0924692823
+
+======================================================	Product			Quantity		Price
+======================================================
+USB-C Charging Cable			2		23.9
+34in Ultrawide Monitor			5		1899.95
+Google Phone			3		1800
+-------------------------------------------------------
+TAX			372.385 $
+TOTAL			3351.465

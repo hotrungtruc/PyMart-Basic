@@ -1,0 +1,13 @@
+		**Welcome customer**
+Bill Number: 8326
+
+Customer Name: 2
+
+Customer Phone Number: 2
+
+======================================================	Product			Quantity		Price
+======================================================
+Vareebadd Phone			2		800
+-------------------------------------------------------
+TAX			80.0 $
+TOTAL			720.0

@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 1049
+
+Customer Name: adf
+
+Customer Phone Number: 1233
+
+======================================================	Product			Quantity		Price
+======================================================
+Lightning Charging Cable			1		14.95
+Google Phone			12		7200
+-------------------------------------------------------
+TAX			721.495 $
+TOTAL			6493.455

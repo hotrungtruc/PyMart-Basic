@@ -1,0 +1,15 @@
+		**Welcome customer**
+Bill Number: 3577
+
+Customer Name: ád
+
+Customer Phone Number: 1221
+
+======================================================	Product			Quantity		Price
+======================================================
+Wired Headphones			2		23.98
+Google Phone			1		600
+LG Washing Machine			3		1800
+-------------------------------------------------------
+TAX			242.398 $
+TOTAL			2181.582

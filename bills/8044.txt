@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 8044
+
+Customer Name: 123
+
+Customer Phone Number: 222
+
+======================================================	Product			Quantity		Price
+======================================================
+Wired Headphones			1		11.99
+Google Phone			2		1200
+-------------------------------------------------------
+TAX			121.199 $
+TOTAL			1090.791

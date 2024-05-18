@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 3483
+
+Customer Name: 11
+
+Customer Phone Number: 1
+
+======================================================	Product			Quantity		Price
+======================================================
+Wired Headphones			1		11.99
+LG Dryer			1		600
+-------------------------------------------------------
+TAX			61.199 $
+TOTAL			550.791

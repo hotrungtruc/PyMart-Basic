@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 3793
+
+Customer Name: ti
+
+Customer Phone Number: 97373737
+
+======================================================	Product			Quantity		Price
+======================================================
+Lightning Charging Cable			10		149.5
+Iphone			1		700
+-------------------------------------------------------
+TAX			84.95 $
+TOTAL			764.55

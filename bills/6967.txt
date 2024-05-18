@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 6967
+
+Customer Name: aaa
+
+Customer Phone Number: 123
+
+======================================================	Product			Quantity		Price
+======================================================
+Bose SoundSport Headphones			3		299.96999999999997
+Vareebadd Phone			2		800
+-------------------------------------------------------
+TAX			109.997 $
+TOTAL			989.9730000000001

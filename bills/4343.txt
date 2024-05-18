@@ -1,0 +1,15 @@
+		**Welcome customer**
+Bill Number: 4343
+
+Customer Name: à
+
+Customer Phone Number: à
+
+======================================================	Product			Quantity		Price
+======================================================
+Bose SoundSport Headphones			12		1199.8799999999999
+34in Ultrawide Monitor			23		8739.77
+Vareebadd Phone			2		800
+-------------------------------------------------------
+TAX			1073.9650000000001 $
+TOTAL			9665.685

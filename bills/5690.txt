@@ -1,0 +1,26 @@
+		**Welcome customer**
+Bill Number: 5376
+
+Customer Name: s
+
+Customer Phone Number: s
+
+======================================================	Product			Quantity		Price
+======================================================
+Iphone			10		7000
+-------------------------------------------------------
+TAX			700.0 $
+TOTAL			6300.0		**Welcome customer**
+Bill Number: 5690
+
+Customer Name: s
+
+Customer Phone Number: s
+
+======================================================	Product			Quantity		Price
+======================================================
+Wired Headphones			3		35.97
+Iphone			10		7000
+-------------------------------------------------------
+TAX			703.597 $
+TOTAL			6332.3730000000005

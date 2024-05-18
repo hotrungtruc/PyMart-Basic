@@ -1,0 +1,15 @@
+		**Welcome customer**
+Bill Number: 6000
+
+Customer Name: anh
+
+Customer Phone Number: 0030303
+
+======================================================	Product			Quantity		Price
+======================================================
+Lightning Charging Cable			1		14.95
+Google Phone			1		600
+LG Dryer			2		1200
+-------------------------------------------------------
+TAX			181.495 $
+TOTAL			1633.455

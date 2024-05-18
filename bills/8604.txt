@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 8604
+
+Customer Name: 2
+
+Customer Phone Number: 222
+
+======================================================	Product			Quantity		Price
+======================================================
+34in Ultrawide Monitor			2		759.98
+Google Phone			2		1200
+-------------------------------------------------------
+TAX			195.998 $
+TOTAL			1763.982

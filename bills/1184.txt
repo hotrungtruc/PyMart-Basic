@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 1184
+
+Customer Name: 1
+
+Customer Phone Number: 1
+
+======================================================	Product			Quantity		Price
+======================================================
+USB-C Charging Cable			1		11.95
+27in 4K Gaming Monitor			01		389.99
+-------------------------------------------------------
+TAX			40.194 $
+TOTAL			361.746

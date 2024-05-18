@@ -1,0 +1,15 @@
+		**Welcome customer**
+Bill Number: 4784
+
+Customer Name: truc
+
+Customer Phone Number: 2828
+
+======================================================	Product			Quantity		Price
+======================================================
+Bose SoundSport Headphones			3		299.96999999999997
+27in 4K Gaming Monitor			1		389.99
+Google Phone			2		1200
+-------------------------------------------------------
+TAX			188.996 $
+TOTAL			1700.964

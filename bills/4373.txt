@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 4373
+
+Customer Name: 3
+
+Customer Phone Number: 2
+
+======================================================	Product			Quantity		Price
+======================================================
+Bose SoundSport Headphones			1		99.99
+ThinkPad Laptops			3		2999.9700000000003
+-------------------------------------------------------
+TAX			309.99600000000004 $
+TOTAL			2789.964

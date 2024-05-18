@@ -1,0 +1,28 @@
+		**Welcome customer**
+Bill Number: 7652
+
+Customer Name: 3
+
+Customer Phone Number: 3
+
+======================================================	Product			Quantity		Price
+======================================================
+Wired Headphones			3		35.97
+Google Phone			3		1800
+-------------------------------------------------------
+TAX			183.597 $
+TOTAL			1652.373		**Welcome customer**
+Bill Number: 5054
+
+Customer Name: 3
+
+Customer Phone Number: 3
+
+======================================================	Product			Quantity		Price
+======================================================
+Wired Headphones			3		35.97
+Google Phone			3		1800
+LG Washing Machine			3		1800
+-------------------------------------------------------
+TAX			363.597 $
+TOTAL			3272.3730000000005

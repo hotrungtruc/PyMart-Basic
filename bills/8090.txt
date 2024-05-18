@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 8090
+
+Customer Name: adf
+
+Customer Phone Number: 2222
+
+======================================================	Product			Quantity		Price
+======================================================
+Bose SoundSport Headphones			3		299.96999999999997
+Iphone			2		1400
+-------------------------------------------------------
+TAX			169.997 $
+TOTAL			1529.973

@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 4687
+
+Customer Name: 2
+
+Customer Phone Number: 2
+
+======================================================	Product			Quantity		Price
+======================================================
+Lightning Charging Cable			2		29.9
+Vareebadd Phone			4		1600
+-------------------------------------------------------
+TAX			162.99 $
+TOTAL			1466.91

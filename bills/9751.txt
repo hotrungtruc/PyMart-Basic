@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 9751
+
+Customer Name: 11
+
+Customer Phone Number: 11
+
+======================================================	Product			Quantity		Price
+======================================================
+Bose SoundSport Headphones			3		299.96999999999997
+Google Phone			2		1200
+-------------------------------------------------------
+TAX			149.997 $
+TOTAL			1349.973

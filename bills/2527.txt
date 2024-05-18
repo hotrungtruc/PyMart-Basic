@@ -1,0 +1,14 @@
+		**Welcome customer**
+Bill Number: 2527
+
+Customer Name: 1
+
+Customer Phone Number: 1
+
+======================================================	Product			Quantity		Price
+======================================================
+USB-C Charging Cable			1		11.95
+34in Ultrawide Monitor			1		379.99
+-------------------------------------------------------
+TAX			39.194 $
+TOTAL			352.746
